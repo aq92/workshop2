@@ -1,0 +1,9 @@
+---
+title: "Assignment 2 Happy Git Chp 18"
+author: "Ahmad Qabazard"
+date: "1/21/2019"
+output: html_document
+---
+
+####Ahmad Qabazard was here on his IMAC 
+So does it work?
